@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer>
+    <footer className="footer">
       <p>
         &copy; {new Date().getFullYear()} Abhishek Jha. All rights reserved.
       </p>
