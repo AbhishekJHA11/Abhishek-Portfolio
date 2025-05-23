@@ -19,6 +19,18 @@ const projects = [
     description: "A React.js app to manage daily tasks.",
     link: "https://todo-list-appin-react.vercel.app/",
   },
+  {
+    id: 4,
+    name: "Password Generator app",
+    description: "A React.js app to generator random passwords.",
+    link: "https://password-generator-pi-pink.vercel.app/",
+  },
+  {
+    id: 5,
+    name: "Pomodoro Timer app",
+    description: "A React.js app to manage and utilize your time wisely",
+    link: "https://pomodoro-app-red-theta.vercel.app/",
+  }
 ];
 
 const Projects = () => {
